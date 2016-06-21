@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<OME UUID="urn:uuid:25097c6a-c144-45fa-af9f-f10b1c045288" xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:Bin="http://www.openmicroscopy.org/Schemas/BinaryFile/2015-01" xmlns:SPW="http://www.openmicroscopy.org/Schemas/SPW/2015-01" xmlns:SA="http://www.openmicroscopy.org/Schemas/SA/2015-01" xmlns:ROI="http://www.openmicroscopy.org/Schemas/ROI/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01     http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+   <BinaryOnly MetadataFile="multifile-Z1.ome.tiff" UUID="urn:uuid:4978087c-a670-4b12-af53-256c62d8d101"/>
+</OME>
+

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://ome-xml.org/wiki/OmeTiff. -->
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UUID="urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01 http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+   <Image ID="Image:0" Name="multi-channel-time-series">
+      <Pixels BigEndian="true" DimensionOrder="XYZCT" ID="Pixels:0" SizeC="3" SizeT="7" SizeX="439" SizeY="167" SizeZ="1" Type="int8">
+         <Channel ID="Channel:0:0" SamplesPerPixel="1">
+            <LightPath/>
+         </Channel>
+         <Channel ID="Channel:0:1" SamplesPerPixel="1">
+            <LightPath/>
+         </Channel>
+         <Channel ID="Channel:0:2" SamplesPerPixel="1">
+            <LightPath/>
+         </Channel>
+         <TiffData FirstC="0" FirstT="0" FirstZ="0" IFD="0" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="0" FirstZ="0" IFD="1" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="0" FirstZ="0" IFD="2" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="1" FirstZ="0" IFD="3" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="1" FirstZ="0" IFD="4" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="1" FirstZ="0" IFD="5" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="2" FirstZ="0" IFD="6" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="2" FirstZ="0" IFD="7" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="2" FirstZ="0" IFD="8" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="3" FirstZ="0" IFD="9" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="3" FirstZ="0" IFD="10" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="3" FirstZ="0" IFD="11" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="4" FirstZ="0" IFD="12" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="4" FirstZ="0" IFD="13" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="4" FirstZ="0" IFD="14" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="5" FirstZ="0" IFD="15" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="5" FirstZ="0" IFD="16" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="5" FirstZ="0" IFD="17" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="6" FirstZ="0" IFD="18" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="1" FirstT="6" FirstZ="0" IFD="19" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="2" FirstT="6" FirstZ="0" IFD="20" PlaneCount="1">
+            <UUID FileName="multi-channel-time-series.ome.tif">
+               urn:uuid:df28ea90-2117-416d-b839-5a02a648bf1f
+            </UUID>
+         </TiffData>
+      </Pixels>
+   </Image>
+</OME>
+

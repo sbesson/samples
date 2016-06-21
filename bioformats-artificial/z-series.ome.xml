@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://ome-xml.org/wiki/OmeTiff. -->
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UUID="urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01 http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+   <Image ID="Image:0" Name="z-series">
+      <Pixels BigEndian="true" DimensionOrder="XYZCT" ID="Pixels:0" SizeC="1" SizeT="1" SizeX="439" SizeY="167" SizeZ="5" Type="int8">
+         <Channel ID="Channel:0:0" SamplesPerPixel="1">
+            <LightPath/>
+         </Channel>
+         <TiffData FirstC="0" FirstT="0" FirstZ="0" IFD="0" PlaneCount="1">
+            <UUID FileName="z-series.ome.tif">
+               urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="0" FirstZ="1" IFD="1" PlaneCount="1">
+            <UUID FileName="z-series.ome.tif">
+               urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="0" FirstZ="2" IFD="2" PlaneCount="1">
+            <UUID FileName="z-series.ome.tif">
+               urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="0" FirstZ="3" IFD="3" PlaneCount="1">
+            <UUID FileName="z-series.ome.tif">
+               urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32
+            </UUID>
+         </TiffData>
+         <TiffData FirstC="0" FirstT="0" FirstZ="4" IFD="4" PlaneCount="1">
+            <UUID FileName="z-series.ome.tif">
+               urn:uuid:6d8045ef-ff0d-4db5-8ac1-951ec82a7f32
+            </UUID>
+         </TiffData>
+      </Pixels>
+   </Image>
+</OME>
+

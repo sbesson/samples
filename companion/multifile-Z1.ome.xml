@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://ome-xml.org/wiki/OmeTiff. -->
+<OME UUID="urn:uuid:4978087c-a670-4b12-af53-256c62d8d101" xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:Bin="http://www.openmicroscopy.org/Schemas/BinaryFile/2015-01" xmlns:SPW="http://www.openmicroscopy.org/Schemas/SPW/2015-01" xmlns:SA="http://www.openmicroscopy.org/Schemas/SA/2015-01" xmlns:ROI="http://www.openmicroscopy.org/Schemas/ROI/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01     http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+   <BinaryOnly MetadataFile="multifile.companion.ome" UUID="urn:uuid:07504f88-7bc3-11e0-b937-2faf67bc00b3"/>
+</OME>
+
