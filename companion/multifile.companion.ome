@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01"
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:ROI="http://www.openmicroscopy.org/Schemas/ROI/2015-01"
-	xmlns:SA="http://www.openmicroscopy.org/Schemas/SA/2015-01"
-	xmlns:SPW="http://www.openmicroscopy.org/Schemas/SPW/2015-01"
-	xmlns:Bin="http://www.openmicroscopy.org/Schemas/BinaryFile/2015-01"
-	xmlns:OME="http://www.openmicroscopy.org/Schemas/OME/2015-01"
-	xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01
-	http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+	xmlns:OME="http://www.openmicroscopy.org/Schemas/OME/2016-06"
+	xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06
+	http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
 	<Image ID="Image:0" Name="multifile">
 		<AcquisitionDate>2010-03-02T15:08:59</AcquisitionDate>
 		<Pixels DimensionOrder="XYCTZ" ID="Pixels:0:0" Type="uint8" SizeC="1" SizeT="1" SizeX="18"

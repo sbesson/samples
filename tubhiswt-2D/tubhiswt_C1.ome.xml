@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://ome-xml.org/wiki/OmeTiff. -->
-<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" UUID="urn:uuid:624218bd-86c5-4358-8281-23e90abfd796" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01 http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://www.openmicroscopy.org/site/support/ome-model/ome-tiff/. -->
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Creator="OME Bio-Formats 5.2.0-m4" UUID="urn:uuid:85a5ab3e-0ead-498f-b2cb-3531ea0788ef" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
    <Experiment ID="urn:lsid:loci.wisc.edu:Experiment:OWS348" Type="PGIDocumentation">
       <Description>
          4 Cell Embryo
@@ -10,9 +10,7 @@
    <Experimenter Email="mnasim@wisc.edu" FirstName="Maimoon" ID="urn:lsid:loci.wisc.edu:Experimenter:116" Institution="" LastName="Nasim"/>
    <Instrument ID="urn:lsid:loci.wisc.edu:Instrument:OWS1">
       <Microscope Manufacturer="Nikon" Model="Eclipse TE300" SerialNumber="U629762" Type="Inverted"/>
-      <LightSource ID="urn:lsid:loci.wisc.edu:LightSource:OWS1" Manufacturer="Spectral Physics" Model="Tsunami 5W" SerialNumber="2123">
-         <Laser LaserMedium="TiSapphire" Type="SolidState"/>
-      </LightSource>
+      <Laser ID="urn:lsid:loci.wisc.edu:LightSource:OWS1" LaserMedium="TiSapphire" Manufacturer="Spectral Physics" Model="Tsunami 5W" SerialNumber="2123" Type="SolidState"/>
       <Detector ID="urn:lsid:loci.wisc.edu:Detector:OWS1" Manufacturer="Hamamatzu" Model="H7422" Type="PMT"/>
       <Detector ID="urn:lsid:loci.wisc.edu:Detector:OWS2" Manufacturer="Bio-Rad" Model="1024TLD" Type="Photodiode"/>
       <Objective CalibratedMagnification="100.0" Correction="PlanApo" ID="urn:lsid:loci.wisc.edu:Objective:OWS2" Immersion="Oil" LensNA="1.4" Manufacturer="Nikon" Model="S Fluor" NominalMagnification="100.0" SerialNumber="044989" WorkingDistance="0.13" WorkingDistanceUnit="µm"/>
@@ -35,14 +33,16 @@
          </Channel>
          <TiffData FirstC="0" FirstT="0" FirstZ="0" IFD="0" PlaneCount="1">
             <UUID FileName="tubhiswt_C0.ome.tif">
-               urn:uuid:445e5c29-2e88-4560-8d02-650b649671cc
+               urn:uuid:cb8b431f-ab4e-4e54-8351-96d4eb785014
             </UUID>
          </TiffData>
          <TiffData FirstC="1" FirstT="0" FirstZ="0" IFD="0" PlaneCount="1">
             <UUID FileName="tubhiswt_C1.ome.tif">
-               urn:uuid:624218bd-86c5-4358-8281-23e90abfd796
+               urn:uuid:85a5ab3e-0ead-498f-b2cb-3531ea0788ef
             </UUID>
          </TiffData>
+         <Plane TheC="0" TheT="0" TheZ="0"/>
+         <Plane TheC="1" TheT="0" TheZ="0"/>
       </Pixels>
    </Image>
 </OME>

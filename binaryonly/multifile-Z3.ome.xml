@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<OME UUID="urn:uuid:f4927e53-35eb-45b3-ac16-a9255a58860c" xmlns="http://www.openmicroscopy.org/Schemas/OME/2015-01" xmlns:Bin="http://www.openmicroscopy.org/Schemas/BinaryFile/2015-01" xmlns:SPW="http://www.openmicroscopy.org/Schemas/SPW/2015-01" xmlns:SA="http://www.openmicroscopy.org/Schemas/SA/2015-01" xmlns:ROI="http://www.openmicroscopy.org/Schemas/ROI/2015-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2015-01     http://www.openmicroscopy.org/Schemas/OME/2015-01/ome.xsd">
-   <BinaryOnly MetadataFile="multifile-Z1.ome.tiff" UUID="urn:uuid:4978087c-a670-4b12-af53-256c62d8d101"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Warning: this comment is an OME-XML metadata block, which contains crucial dimensional parameters and other important metadata. Please edit cautiously (if at all), and back up the original data before doing so. For more information, see the OME-TIFF web site: http://www.openmicroscopy.org/site/support/ome-model/ome-tiff/. -->
+<OME xmlns="http://www.openmicroscopy.org/Schemas/OME/2016-06" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Creator="OME Bio-Formats 5.2.0-m4" UUID="urn:uuid:e3bdd73e-d2a8-4999-9135-b8422265ba18" xsi:schemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06 http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+   <BinaryOnly MetadataFile="multifile-Z1.ome.tiff" UUID="urn:uuid:d25bfea2-2708-4a4f-bcd9-8ab1ac478041"/>
 </OME>
 
